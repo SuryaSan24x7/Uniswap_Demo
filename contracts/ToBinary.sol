@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.9;
+pragma solidity ^0.8.20;
 
 contract ToBinary {
     function concatenateStrings(string memory a, string memory b) private pure returns (string memory) {
